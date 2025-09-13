@@ -1,0 +1,1 @@
+# Pre-battle-Speech-Tempelete
