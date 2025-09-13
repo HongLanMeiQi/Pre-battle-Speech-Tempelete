@@ -1,4 +1,4 @@
 # 要求
 你需要Unity 2020.3的最新小版本以及Ravenfield最新工具包。
 # 如何创建自己的战前演讲
-首先，你需要准备好某张地图双方阵营各自的演讲音频，然后将其导入unityMOD项目，在将双方的音频剪辑分别放入eagleSpeech和ravenSpeech的clips中，然后在Pre-battle Speech Content 预制件的配置选项里为Dropdown选项卡添加音频对应的地图名称，注意，选项卡对应的索引与音频剪辑在clips数组中的元素数对应，这样才能正确播放相应的音频。
+首先，你需要准备好某张地图双方阵营各自的演讲音频，然后将其导入unityMOD项目，再将双方的音频剪辑分别放入eagleSpeech和ravenSpeech的clips中，然后在Pre-battle Speech Content 预制件的配置选项里为Dropdown选项卡添加音频对应的地图名称，注意，选项卡对应的索引与音频剪辑在clips数组中的元素数对应，这样才能正确播放相应的音频。
